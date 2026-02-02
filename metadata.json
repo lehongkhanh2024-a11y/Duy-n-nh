@@ -1,0 +1,7 @@
+{
+  "name": "Duyên Định - Dự Đoán Bạn Đời",
+  "description": "Ứng dụng sử dụng AI và thuật nhân tướng học để dự đoán chân dung và tính cách người bạn đời tương lai của bạn thông qua phân tích ảnh chân dung.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
